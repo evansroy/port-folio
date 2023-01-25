@@ -320,7 +320,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url('./images/roy-bg-photo.png');
+        background-image: url('https://avatars.githubusercontent.com/u/51271888?v=4');
     }
     .header-text{
         margin-top: 100%;
@@ -330,7 +330,7 @@ nav .fas{
         width: 100px;
     }
     .header-text h1{
-        font-size: 30px;
+        font-size: 45px;
     }
     nav .fas{
         display: block;
