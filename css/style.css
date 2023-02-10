@@ -8,8 +8,8 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: #080808;
-    color: #fff;
+    background: #edf2fc;
+    color: #080808;
 }
 #header{
     width: 100%;
@@ -38,7 +38,7 @@ nav ul li{
     margin: 10px 20px;
 }
 nav ul li a{
-    color: #fff;
+    color: #080808;
     text-decoration: none;
     font-size: 18px;
     position: relative;
@@ -72,7 +72,7 @@ nav ul li a:hover::after{
 /*--------------about---------------*/
 #about{
     padding: 80px 0;
-    color: #ababab;
+    color: #080808;
 }
 .row{
     display: flex;
@@ -93,7 +93,7 @@ nav ul li a:hover::after{
 .sub-title{
     font-size: 60px;
     font-weight: 600;
-    color: #fff;
+    color:#009DFF ;
 }
 .tab-titles{
     display: flex;
@@ -145,7 +145,7 @@ nav ul li a:hover::after{
     margin-top: 50px;
 }
 .services-list div{
-    background: #262626;
+    background: #bbb8b88a;
     padding: 40px;
     font-size: 13px;
     font-weight: 300;
@@ -243,7 +243,7 @@ nav ul li a:hover::after{
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
-    color: #fff;
+    color: #ababab;
     transition: background 0.5s;
 }
 .btn:hover{
@@ -291,10 +291,10 @@ form input, form textarea{
     width: 100%;
     border: 0;
     outline: none;
-    background: #262626;
+    background: #bbb8b88a;
     padding: 15px;
     margin: 15px;
-    color: #fff;
+    color: #080808;
     font-size: 18px;
     border-radius: 6px;
 }
@@ -308,7 +308,7 @@ form btn2{
     width: 100%;
     text-align: center;
     padding: 25px 0;
-    background: #262626;
+    background: #bbb8b88a;
     font-weight: 300;
     margin-top: 20px;
 }
