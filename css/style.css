@@ -213,7 +213,11 @@ nav ul li a:hover::after{
     font-size: 14px;
     transition: height 0.5s;
 }
+.layer p {
+    color: #fff;
+}
 .layer h3{
+    color: #fff;
     font-weight: 500;
     margin-bottom: 20px;
 }
