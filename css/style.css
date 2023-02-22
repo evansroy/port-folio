@@ -396,6 +396,9 @@ nav .fas{
         display: block;
         margin: 25px;
     }
+    nav ul li a:hover{
+        color: #edf2fc;
+    }
     nav ul .fas{
         position: absolute;
         top: 25px;
