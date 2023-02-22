@@ -362,22 +362,28 @@ nav .fas{
         background-image: url('https://avatars.githubusercontent.com/u/51271888?v=4');
     }
     .header-text{
-        margin-top: 100%;
-        font-size: 16px;
+        margin-top: 70%;
+        font-size: 1rem;
     }
     .logo{
         width: 100px;
     }
     .header-text h1{
-        font-size: 45px;
+        font-size: 3rem;
+        color: #edf2fc;
+    }
+    .header-text p{
+        color: #edf2fc;
+        font-size: 2rem;
     }
     nav .fas{
         display: block;
-        font-size: 25px;
+        font-size: 2rem;
     }
     nav ul{
         background: #009DFF;
         position: fixed;
+        text-align: center;
         top: 0;
         right: -200px;
         width: 200px;
