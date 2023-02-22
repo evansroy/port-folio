@@ -2,10 +2,24 @@
     --primary-color: #edf2fc;
     --secondary-color: #212121;
 }
+
 .dark-theme{
     --primary-color: #000106;
     --secondary-color: #fff;
 }
+.light-logo {
+    display: block;
+ }
+ .dark-theme .dark-logo {
+    display: block;
+ }
+  .dark-logo {
+    display: none;
+ }
+ .dark-theme .light-logo {
+    display: none;
+ }
+ 
 *{
     margin: 0;
     padding: 0;
@@ -114,7 +128,6 @@ nav ul li a:hover::after{
 .sub-title{
     font-size: 60px;
     font-weight: 600;
-    color:#009DFF ;
 }
 .tab-titles{
     display: flex;
@@ -268,7 +281,7 @@ nav ul li a:hover::after{
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
-    color: #ababab;
+    color: var(--secondary-color);
     transition: background 0.5s;
 }
 .btn:hover{
