@@ -20,6 +20,8 @@ Welcome to my portfolio website! This website showcases my projects and skills a
 
 . Go through the code 
 
+. Run the code on your browser by clicking on your index.html
+
 # BDD(Behavioral Driven Development) 
 The website consists of several pages, including:
 
